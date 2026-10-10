@@ -4,7 +4,7 @@
 
 UniKart is a campus-focused web application that lets students and teachers order products from stores inside the college campus and get them delivered to their classroom, department, hostel, or another permitted campus location.
 
-**Live demo:** https://YOUR-APP-NAME.onrender.com
+**Live demo:** https://unikart-mits.onrender.com
 *(Hosted on a free plan: the first load after a period of inactivity can take about a minute, and demo data may reset when the server restarts.)*
 
 Built as a first-semester CSE micro project at MITS Gwalior.
